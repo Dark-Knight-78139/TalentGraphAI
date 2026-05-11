@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+langgraph
+spacy
+sentence-transformers
+pandas
+numpy
+networkx
+streamlit
+python-dotenv
+requests
+torchvision
+pypdf
