@@ -1,0 +1,14 @@
+John Doe
+Software Engineer & Data Enthusiast
+
+Experience:
+- Developed data processing pipelines using Python and Pandas.
+- Built multiple machine learning models for classification tasks using Scikit-Learn.
+- Basic understanding of Natural Language Processing techniques.
+- Created REST APIs using Django and Flask.
+- Familiar with SQL databases like PostgreSQL.
+- Used Git and GitHub for version control.
+- Have run Docker containers locally.
+
+Education:
+B.S. in Computer Science

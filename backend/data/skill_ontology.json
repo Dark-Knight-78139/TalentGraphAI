@@ -1,0 +1,110 @@
+{
+    "Python": {
+        "adjacent": ["FastAPI", "Flask", "Django", "PyTest"],
+        "resources": [
+            {"title": "Real Python Tutorials", "url": "https://realpython.com/", "time_estimate": "10 hours"}
+        ]
+    },
+    "Pandas": {
+        "adjacent": ["NumPy", "Data Analysis", "Polars"],
+        "resources": [
+            {"title": "Pandas Documentation", "url": "https://pandas.pydata.org/docs/", "time_estimate": "5 hours"}
+        ]
+    },
+    "NumPy": {
+        "adjacent": ["Pandas", "Linear Algebra"],
+        "resources": [
+            {"title": "NumPy Quickstart", "url": "https://numpy.org/doc/stable/user/quickstart.html", "time_estimate": "4 hours"}
+        ]
+    },
+    "Scikit-Learn": {
+        "adjacent": ["Machine Learning", "XGBoost", "LightGBM"],
+        "resources": [
+            {"title": "Scikit-Learn User Guide", "url": "https://scikit-learn.org/stable/user_guide.html", "time_estimate": "15 hours"}
+        ]
+    },
+    "PyTorch": {
+        "adjacent": ["Deep Learning", "TensorFlow", "Transformers"],
+        "resources": [
+            {"title": "PyTorch Tutorials", "url": "https://pytorch.org/tutorials/", "time_estimate": "20 hours"}
+        ]
+    },
+    "TensorFlow": {
+        "adjacent": ["Deep Learning", "PyTorch", "Keras"],
+        "resources": [
+            {"title": "TensorFlow Tutorials", "url": "https://www.tensorflow.org/tutorials", "time_estimate": "20 hours"}
+        ]
+    },
+    "NLP": {
+        "adjacent": ["spaCy", "Transformers", "NLTK", "LLMs"],
+        "resources": [
+            {"title": "Hugging Face Course", "url": "https://huggingface.co/course/chapter1/1", "time_estimate": "25 hours"}
+        ]
+    },
+    "spaCy": {
+        "adjacent": ["NLP", "Transformers"],
+        "resources": [
+            {"title": "Advanced NLP with spaCy", "url": "https://course.spacy.io/en/", "time_estimate": "8 hours"}
+        ]
+    },
+    "Transformers": {
+        "adjacent": ["NLP", "PyTorch", "HuggingFace"],
+        "resources": [
+            {"title": "Transformers Docs", "url": "https://huggingface.co/docs/transformers/index", "time_estimate": "15 hours"}
+        ]
+    },
+    "FastAPI": {
+        "adjacent": ["Python", "REST APIs", "Flask"],
+        "resources": [
+            {"title": "FastAPI Tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "time_estimate": "8 hours"}
+        ]
+    },
+    "Flask": {
+        "adjacent": ["Python", "FastAPI", "Django"],
+        "resources": [
+            {"title": "Flask Mega-Tutorial", "url": "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world", "time_estimate": "12 hours"}
+        ]
+    },
+    "Agentic AI": {
+        "adjacent": ["LangChain", "LangGraph", "LLMs"],
+        "resources": [
+            {"title": "Building Agentic Applications", "url": "https://www.deeplearning.ai/short-courses/", "time_estimate": "10 hours"}
+        ]
+    },
+    "LangChain": {
+        "adjacent": ["Agentic AI", "LLMs", "LangGraph"],
+        "resources": [
+            {"title": "LangChain Docs", "url": "https://python.langchain.com/docs/get_started/introduction", "time_estimate": "10 hours"}
+        ]
+    },
+    "LangGraph": {
+        "adjacent": ["LangChain", "Agentic AI", "State Machines"],
+        "resources": [
+            {"title": "LangGraph Docs", "url": "https://langchain-ai.github.io/langgraph/", "time_estimate": "12 hours"}
+        ]
+    },
+    "SQL": {
+        "adjacent": ["PostgreSQL", "Database Architecture", "NoSQL"],
+        "resources": [
+            {"title": "SQLBolt", "url": "https://sqlbolt.com/", "time_estimate": "6 hours"}
+        ]
+    },
+    "Docker": {
+        "adjacent": ["Kubernetes", "DevOps", "CI/CD"],
+        "resources": [
+            {"title": "Docker 101 Tutorial", "url": "https://www.docker.com/101-tutorial/", "time_estimate": "5 hours"}
+        ]
+    },
+    "AWS": {
+        "adjacent": ["Cloud Platforms", "GCP", "DevOps"],
+        "resources": [
+            {"title": "AWS Skill Builder", "url": "https://skillbuilder.aws/", "time_estimate": "30 hours"}
+        ]
+    },
+    "GCP": {
+        "adjacent": ["Cloud Platforms", "AWS", "DevOps"],
+        "resources": [
+            {"title": "Google Cloud Skills Boost", "url": "https://www.cloudskillsboost.google/", "time_estimate": "30 hours"}
+        ]
+    }
+}

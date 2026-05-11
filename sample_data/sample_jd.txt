@@ -1,0 +1,11 @@
+Job Title: Senior Data Scientist
+
+Requirements:
+- Strong proficiency in Python, Pandas, and NumPy.
+- Experience with Machine Learning frameworks like Scikit-Learn, PyTorch, or TensorFlow.
+- Knowledge of NLP, including spaCy and Transformers.
+- Ability to build and deploy APIs using FastAPI or Flask.
+- Experience with Agentic AI, LangChain, or LangGraph is a huge plus.
+- Solid understanding of SQL and database architecture.
+- Experience with cloud platforms (AWS/GCP) and Docker.
+
